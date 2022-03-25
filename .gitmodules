@@ -1,0 +1,3 @@
+[submodule "Hero"]
+	path = Hero
+	url = https://github.com/Gabriella-SantaClara-ey/Heroes.git
